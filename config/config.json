@@ -1,4 +1,6 @@
 {
     "openai_api_key": "your-openai-api-key",
-    "ocr_lang": "eng"
+    "ocr_lang": "eng",
+    "batch_size": 1000,
+    "max_workers": 8
 }
