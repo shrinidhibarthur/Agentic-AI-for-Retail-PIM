@@ -1,0 +1,10 @@
+
+openai
+transformers
+torch
+Pillow
+opencv-python
+pytesseract
+moviepy
+pandas
+requests
